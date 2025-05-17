@@ -1,5 +1,4 @@
-//Java pract
+//Java practical
 public class comments{
-    public static void main(String[] args) {
-    }
+   
 }
