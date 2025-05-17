@@ -1,3 +1,4 @@
 //Java pract
-public class {
+//Updated
+public class comments {
 }
