@@ -1,1 +1,3 @@
 //Java pract
+public class {
+}
